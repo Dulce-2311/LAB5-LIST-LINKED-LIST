@@ -83,7 +83,7 @@ public class ListLinked<T> {
         Node<T> actual = first;
 
         while (actual != null) {
-            System.out.print(actual.value + " → ");
+            System.out.print(actual.value + " -> ");
             actual = actual.next;
         }
 
