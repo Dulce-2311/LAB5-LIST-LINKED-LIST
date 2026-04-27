@@ -125,7 +125,7 @@ class ColaReproduccion8<T> {
 
         for (Object obj : arreglo) {
             agregarCancion((T) obj); 
-            // vuelvo a meter los elementos ya mezclados
+            // vuelvo a meter los elementos ya mezclado
         }
     }
 
@@ -163,6 +163,6 @@ class ColaReproduccion8<T> {
         }
 
         return total; 
-        // retorno total en segundos
+        // retorno total en segundoss
     }
 }

@@ -26,6 +26,6 @@ public class Main8 {
 
         System.out.println("\n◄ Anterior:");
         System.out.println(cola.reproducirAnterior()); 
-        // retrocedo usando el puntero anterior (esto es lo importante de la lista doble)
+        // retrocedo usando el puntero anteriorr
     }
 }
